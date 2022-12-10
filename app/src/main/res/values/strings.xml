@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeText2">Hello in my new Shoe Store App and I hope you will enjoy it.</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="instruction1">First you will see All Shoes and then you can add new Shoe</string>
+    <string name="instruction2">Also you can go to detail page by hit the detail button</string>
+    <string name="Login">Logout</string>
+</resources>

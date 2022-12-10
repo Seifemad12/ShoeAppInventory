@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_details_screen.xml" value="0.19767441860465115" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_instruction_screen.xml" value="0.22780797101449277" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_login_screen.xml" value="0.2509057971014493" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_shoe_list_screen.xml" value="0.2341485507246377" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/fragment_welcome_screen.xml" value="0.264" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/layout/textview.xml" value="0.2341485507246377" />
+        <entry key="..\:/AndroidStud/android projects/Udacity/NanoDegreeEgyFWD/nd940-android-kotlin-course1-starter-master/starter/app/src/main/res/menu/my_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

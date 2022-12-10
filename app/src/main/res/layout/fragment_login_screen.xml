@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Linear Layout for two edit texts and two text views-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginVertical="25dp"
+        tools:context=".screens.login.LoginScreen">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            android:paddingStart="25dp"
+            android:textSize="25sp"
+
+            />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="25dp"
+
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:paddingStart="25dp"
+            android:textSize="25sp"
+
+            />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:paddingStart="25dp"
+
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <!-- Linear Layout for two buttons-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <Button
+                android:id="@+id/newLogin"
+                android:layout_width="150dp"
+                android:layout_height="50sp"
+                android:layout_marginStart="20dp"
+                android:text="new Login"
+                android:textColor="#F2F2F3"
+                android:backgroundTint="@color/colorPrimaryDark"
+
+                />
+
+            <Button
+                android:id="@+id/existingLogin"
+                android:layout_width="150dp"
+                android:layout_height="50sp"
+                android:layout_marginStart="20dp"
+                android:text="existing Login"
+                android:textColor="#F2F2F3"
+                android:backgroundTint="@color/colorPrimaryDark"
+                />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</layout>
